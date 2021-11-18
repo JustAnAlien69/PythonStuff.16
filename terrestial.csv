@@ -1,0 +1,3 @@
+number,name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,planet_type,planet_radius,orbital_radius,orbital_period,eccentricity,solar_system_name,planet_discovery_method,planet_orbital_inclination,planet_density,right_ascension,declination,host_temperature,host_mass,host_radius,gravitation
+1804,Kepler-128 b,1308.0,244.70600000000002,11.289000000000001,2013,Super Earth,16.016,0.1264 AU,15.1 days,0.0,Kepler-1287,Transit,,,19h16m32.32s,+47d03m46.8s,5715.0,0.96,0.94,9.367577374635317
+1940,Kepler-138 d,219.0,203.39200000000002,12.472000000000001,2014,Super Earth,13.574399999999999,0.12781 AU,23.1 days,0.03,Kepler-1389,Transit,,,19h02m52.18s,+44d45m30.3s,5078.0,0.81,0.74,10.838854167392277
